@@ -1,0 +1,5 @@
+@url = https://localhost:3322
+
+### BASIC
+Send Request
+{{url}}
